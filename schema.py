@@ -5,7 +5,7 @@ from enum import Enum
 class FuelType(str, Enum):
     petrol = "Petrol"
     diesel = "Diesel"
-    CNG = "Petrol"
+    CNG = "CNG"
 
 class SellerType(str, Enum):
     dealer = "Dealer"
