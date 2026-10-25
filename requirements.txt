@@ -6,3 +6,5 @@ scikit-learn
 joblib
 pydantic
 streamlit
+
+# https://car-predictor-js9sfe2eigc5opmf2dqvyn.streamlit.app/ -> frontend
